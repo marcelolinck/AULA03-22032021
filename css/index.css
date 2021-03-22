@@ -1,0 +1,24 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    
+}
+#menu ul{
+    padding: 10px;
+    margin: 0px;
+    float: left;
+    width: 100%;
+    background-color: #6666ff;
+    list-style: none;
+    font: 100% Verdana;
+}
+#menu ul li{
+    display: inline;
+}
+#menu ul li a{
+    color: #ffffff;
+}
+#menu ul li a:hover{
+    color: #d6d4d4;
+    border-bottom: 3px solid #ffffff;
+}
